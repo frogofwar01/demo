@@ -1,3 +1,0 @@
-## LICENSE
-
-VERSION 3.0
